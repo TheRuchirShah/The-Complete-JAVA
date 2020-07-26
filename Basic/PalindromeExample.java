@@ -1,3 +1,7 @@
+// A palindrome number is a number that is same after reverse. For example 54345, 151 are the palindrome numbers. 
+// It can also be a string like LOL, MADAM, EVE etc.
+
+
 class PalindromeExample
 {  
   public static void main(String args[])
@@ -15,11 +19,11 @@ class PalindromeExample
     }    
     if(temp==sum)    
     {
-      System.out.println("Palindrome Number ");    
+      System.out.println("palindrome number ");    
     }
     else    
     {
-      System.out.println("Not Palindrome");    
+      System.out.println("not palindrome");    
     }
   }  
 }
