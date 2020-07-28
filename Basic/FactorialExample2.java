@@ -3,7 +3,7 @@
 
 // With Recursion
 
-class FactorialExample2
+public class FactorialExample2
 {  
     static int factorial(int n)
     {    
