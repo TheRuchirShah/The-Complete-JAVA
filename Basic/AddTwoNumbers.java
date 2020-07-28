@@ -13,7 +13,7 @@ public class AddTwoNumbers {
 
 
 /*
-OUTPUT:-
+OUTPUT :-
 
 Sum of these numbers: 20
 
