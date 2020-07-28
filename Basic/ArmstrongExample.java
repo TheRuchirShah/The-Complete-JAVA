@@ -29,7 +29,7 @@ public class ArmstrongExample
 
 
 /*
-OUTPUT:-
+OUTPUT :-
 
 It is an Armstrong Number
 
