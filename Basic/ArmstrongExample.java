@@ -1,7 +1,7 @@
 //A positive number is called armstrong number if it is equal to the sum of cubes of its digits.
 // Example 0, 1, 153, 1634 etc.
 
-class ArmstrongExample
+public class ArmstrongExample
 {  
   public static void main(String[] args) 
   {  
@@ -18,11 +18,18 @@ class ArmstrongExample
     }  
     if(temp==c)  
     {
-      System.out.println("armstrong number");   
+      System.out.println("It is an Armstrong Number");   
     }
     else
     {  
-      System.out.println("Not armstrong number");
+      System.out.println("It is Not an Armstrong Number");
     }
   }
-}  
+} 
+
+/*
+OUTPUT:-
+
+It is an Armstrong Number
+
+*/
