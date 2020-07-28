@@ -1,7 +1,7 @@
 // Factorial of n is the product of all positive descending integers.
 // Factorial of n is denoted by n!
 
-class FactorialExample1
+public class FactorialExample1
 {  
   public static void main(String args[])
   {  
@@ -14,3 +14,10 @@ class FactorialExample1
     System.out.println("Factorial of "+number+" is: "+fact);    
   }
 }
+
+/*
+OUTPUT :-
+
+Factorial of 5 is: 120
+
+*/
