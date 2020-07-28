@@ -207,7 +207,7 @@ It is used to develop rich internet applications. It uses a light-weight user in
 
   
 -  **Java: The Complete Reference, Seventh Edition (Old Edition)**
-- Herbert Schildt
+-- Herbert Schildt
 
 -  **Java Performance: The Definite Guide**
 – Scott Oaks
