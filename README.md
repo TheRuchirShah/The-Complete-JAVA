@@ -3,6 +3,7 @@ Hi! My name is Ruchir.
 
 This is a complete introduction to JAVA programming language from Beginner to Advance level.
 
+![picture of java logo](https://tinyurl.com/y3lszoyh)
 
 ## What is Java
 
