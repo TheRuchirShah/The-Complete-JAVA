@@ -23,4 +23,16 @@ public class LeftTrianglePattern
         System.out.println();   
     }   
     }   
-}  
+} 
+
+
+/*
+OUTPUT :-
+
+           * 
+         * * 
+       * * * 
+     * * * * 
+   * * * * *
+
+*/
