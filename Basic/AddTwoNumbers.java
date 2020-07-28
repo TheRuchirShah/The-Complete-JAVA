@@ -10,3 +10,11 @@ public class AddTwoNumbers {
       System.out.println("Sum of these numbers: "+sum);
    }
 }
+
+
+/*
+OUTPUT:-
+
+Sum of these numbers: 20
+
+*/
