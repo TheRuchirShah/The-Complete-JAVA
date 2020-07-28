@@ -27,6 +27,7 @@ public class ArmstrongExample
   }
 } 
 
+
 /*
 OUTPUT:-
 
