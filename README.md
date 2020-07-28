@@ -116,3 +116,24 @@ It is a micro platform which is mainly used to develop mobile applications.
 
 It is used to develop rich internet applications. It uses a light-weight user interface API.
 
+### Reference Books for JAVA
+
+ - **Java: The Complete Reference, Seventh Edition (Old Edition)**
+ ![java seventh edition](https://tinyurl.com/y5sdcwg6)
+  Author - Herbert Schildt
+
+---
+
+ - **Java Performance: The Definite Guide** 
+ ![java performance](https://tinyurl.com/y3e5mv6v)
+ Author –  Scott Oaks
+
+---
+
+
+ - **Java - The Complete Reference Paperback : Tenth Edition** 
+![java tenth edition](https://tinyurl.com/y33tvyuf)
+  Author - Herbert Schildt
+  
+----
+End of file
