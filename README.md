@@ -206,13 +206,11 @@ It is used to develop rich internet applications. It uses a light-weight user in
 ###  Reference Books for JAVA
 
   
--  **Java: The Complete Reference, Seventh Edition (Old Edition)**
--- Herbert Schildt
+-  **Java: The Complete Reference, Seventh Edition (Old Edition)** – Herbert Schildt
 
--  **Java Performance: The Definite Guide**
-– Scott Oaks
+-  **Java Performance: The Definite Guide** – Scott Oaks
 
--  **Java - The Complete Reference Paperback : Tenth Edition** - Herbert Schildt
+-  **Java - The Complete Reference Paperback : Tenth Edition** – Herbert Schildt
 
 ------
 
