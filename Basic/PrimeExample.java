@@ -1,3 +1,7 @@
+
+// Prime number is a number that is greater than 1 and divided by 1 or itself only.
+// In other words, prime numbers can't be divided by other numbers than itself or 1. Example:- 2, 3, 5, 7, 11, 13, 17.... are the prime numbers.
+
 public class PrimeExample
 {    
     public static void main(String args[])
@@ -8,7 +12,7 @@ public class PrimeExample
     
         if(n==0||n==1)
         {  
-            System.out.println(n+" is not prime number");      
+            System.out.println(n+" Is Not a Prime Number");      
         }
         else
         {  
@@ -16,15 +20,23 @@ public class PrimeExample
             {      
                 if(n%i==0)
                 {      
-                    System.out.println(n+" is not prime number");      
+                    System.out.println(n+" Is Not a Prime Number");      
                     flag=1;      
                     break;      
                 }
             }
             if(flag==0)
             {
-                System.out.println(n+" is prime number"); 
+                System.out.println(n+" Is a Prime Number"); 
             }  
         }       //end of else  
     }    
 }
+
+
+/*
+OUTPUT :-
+
+3 Is a Prime Number
+
+*/
