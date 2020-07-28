@@ -1,6 +1,6 @@
 // With Recursion
 
-class FibonacciExample2
+public class FibonacciExample2
 {
     static int n1=0,n2=1,n3=0;
     static void printFibonacci(int count)
@@ -22,3 +22,11 @@ class FibonacciExample2
         printFibonacci(count-2);        //n-2 because 2 numbers are already printed
     }
 }
+
+
+/*
+OUTPUT :-
+
+0 1 1 2 3 5 8 13 21 34
+
+*/
