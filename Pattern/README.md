@@ -15,9 +15,8 @@ We have classified the  **Java** patterns  into three main categories:
  
 ### Star Pattern Example :-
 
-|   |   |   |   |   |
-|---|---|---|---|---|
 | * |   |   |   |   |
+|---|---|---|---|---|
 | * | * |   |   |   |
 | * | * | * |   |   |
 | * | * | * | * |   |
@@ -29,9 +28,8 @@ We have classified the  **Java** patterns  into three main categories:
 
 ### Number Pattern Example :-
 
-|   |   |   |   |   |
-|---|---|---|---|---|
 | 1 |   |   |   |   |
+|---|---|---|---|---|
 | 1 | 2 |   |   |   |
 | 1 | 2 | 3 |   |   |
 | 1 | 2 | 3 | 4 |   |
@@ -43,9 +41,8 @@ We have classified the  **Java** patterns  into three main categories:
 
 ### Character Pattern Example :-
 
-|   |   |   |   |   |
-|---|---|---|---|---|
 | A |   |   |   |   |
+|---|---|---|---|---|
 | A | B |   |   |   |
 | A | B | C |   |   |
 | A | B | C | D |   |
@@ -53,5 +50,3 @@ We have classified the  **Java** patterns  into three main categories:
 
 - top-to-bottom is columns.
 - left-to-right is rows
-
-
