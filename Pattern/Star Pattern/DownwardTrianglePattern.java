@@ -1,5 +1,5 @@
 // Star Pattern
-// Star Downward Triangle Pattern
+// Downward Triangle Star Pattern
 
 
 public class DownwardTrianglePattern
