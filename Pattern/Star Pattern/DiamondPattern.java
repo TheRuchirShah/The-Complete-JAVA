@@ -1,5 +1,5 @@
 // Star Pattern
-// Star Diamond Pattern 
+// Diamond Star Pattern 
 
 
 import java.util.Scanner;  
