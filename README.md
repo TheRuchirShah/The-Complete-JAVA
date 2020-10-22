@@ -43,19 +43,13 @@ Let's have a quick look at Java programming example. It is a program to display 
 
   
 
-class example
-
-{
-
-public static void main(String args[])
-
-{
-
-System.out.println("Hello, World!");
-
-}
-
-}
+    class example
+    {
+    	public static void main(String args[])`
+    	{
+    		System.out.println("Hello, World!");
+    	}
+    }
 
   
   
@@ -71,7 +65,7 @@ According to Sun, 3 billion devices run Java. There are many devices where Java 
 
 1. Desktop Applications such as acrobat reader, media player, antivirus, etc.
 
-2. Web Applications such as [Indian Rayways](https://www.irctc.co.in/) (website), etc.
+2. Web Applications such as [Indian Railways](https://www.irctc.co.in/) (website), etc.
 
 3. Enterprise Applications such as banking applications.
 
