@@ -43,11 +43,13 @@ Let's have a quick look at Java programming example. It is a program to display 
 
   
 
-    class example
+ 
+
+    class HelloWorld 
     {
-    	public static void main(String args[])`
+    	public static void main(String[] args) 
     	{
-    		System.out.println("Hello, World!");
+    		System.out.println("Hello, World!"); 
     	}
     }
 
