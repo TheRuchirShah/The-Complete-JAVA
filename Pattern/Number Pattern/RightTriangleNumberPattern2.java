@@ -1,5 +1,5 @@
 // Number Pattern
-// Right Triangle Number Pattern
+// Right Triangle Number Pattern 2
 
 
 public class RightTriangleNumberPattern2
