@@ -26,6 +26,7 @@ public class PascalTriangleProgram
 /*
 
 OUTPUT :-
+
     1
    1 1
   1 2 1
